@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf5bccb0d523bb94a8ae628354819768, type: 3}
+  m_Name: newDataAsset
+  m_EditorClassIdentifier: 
+  SnakeHeadSprite: {fileID: 21300000, guid: d63acee9dd172e54c96164d81af46272, type: 3}
+  SnakeBodySprite: {fileID: 21300000, guid: eb4b96a417d85f140af39e28b104c8d3, type: 3}
+  SnakeTrailSprite: {fileID: 21300000, guid: 4fa4277e923293f46a2ea519da69328e, type: 3}
+  SpriteNguaBung: {fileID: 21300000, guid: 6d5e9a45106baf84ba2932ee08eef34f, type: 3}
+  SpriteGapBung: {fileID: 21300000, guid: 3be8eaef9d27de04abde013863011fd8, type: 3}
+  DefaultSprite: {fileID: 21300000, guid: eb4b96a417d85f140af39e28b104c8d3, type: 3}
